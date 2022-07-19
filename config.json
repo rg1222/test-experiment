@@ -1,0 +1,12 @@
+{
+    "name": "Test Task",
+    "exp_id": "test-experiment",
+    "description": "A short test task to press spacebar or mouse",
+    "instructions": "Press the spacebar. Do NOT press the mouse!",
+    "url": "https://github.com/rg1222/test-experiment",
+    "template":"labjs",
+    "contributors": [
+                     "Craig Gallagher"
+                    ], 
+    "time":1
+}
